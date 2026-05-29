@@ -1,4 +1,4 @@
--- Fixed by Deobf Hub | https://discord.gg/deobf-hub
+-- Base Communautaire
 fx_version "cerulean"
 games { "gta5" }
 
