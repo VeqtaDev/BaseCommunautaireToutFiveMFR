@@ -1,0 +1,1 @@
+var e=``+new URL(`tick.ogg`,import.meta.url).href,t=``+new URL(`pop-in.ogg`,import.meta.url).href,n=``+new URL(`pop-out.ogg`,import.meta.url).href;export{t as n,e as r,n as t};
